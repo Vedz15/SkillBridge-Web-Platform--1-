@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "guru_id": 1,
+    "title": "Yoga for Beginners",
+    "description": "Basic yoga postures",
+    "price_per_hour": 300,
+    "category": "Health & Fitness",
+    "duration_per_session": 60,
+    "availability": {
+      "monday": ["09:00", "10:00", "17:00", "18:00"],
+      "tuesday": ["09:00", "10:00", "17:00", "18:00"],
+      "wednesday": ["09:00", "10:00", "17:00", "18:00"],
+      "thursday": ["09:00", "10:00", "17:00", "18:00"],
+      "friday": ["09:00", "10:00", "17:00", "18:00"],
+      "saturday": ["08:00", "09:00", "10:00", "11:00"],
+      "sunday": ["08:00", "09:00", "10:00", "11:00"]
+    },
+    "skill_level": "beginner",
+    "max_students": 5,
+    "session_type": "group",
+    "requirements": "Yoga mat, comfortable clothing",
+    "created_at": "2024-01-15T10:45:00Z",
+    "is_active": true
+  },
+  {
+    "id": 2,
+    "guru_id": 2,
+    "title": "Indian Cooking",
+    "description": "Learn Gujarati recipes",
+    "price_per_hour": 500,
+    "category": "Cooking",
+    "duration_per_session": 120,
+    "availability": {
+      "tuesday": ["10:00", "15:00"],
+      "thursday": ["10:00", "15:00"],
+      "saturday": ["09:00", "14:00"],
+      "sunday": ["09:00", "14:00"]
+    },
+    "skill_level": "beginner",
+    "max_students": 4,
+    "session_type": "hands_on",
+    "requirements": "Basic kitchen equipment, ingredients (list provided)",
+    "created_at": "2024-01-10T14:30:00Z",
+    "is_active": true
+  },
+  {
+    "id": 3,
+    "guru_id": 3,
+    "title": "Guitar Lessons",
+    "description": "Acoustic guitar basics",
+    "price_per_hour": 400,
+    "category": "Music",
+    "duration_per_session": 60,
+    "availability": {
+      "monday": ["16:00", "17:00", "18:00", "19:00"],
+      "tuesday": ["16:00", "17:00", "18:00", "19:00"],
+      "wednesday": ["16:00", "17:00", "18:00", "19:00"],
+      "thursday": ["16:00", "17:00", "18:00", "19:00"],
+      "friday": ["16:00", "17:00", "18:00", "19:00"]
+    },
+    "skill_level": "beginner",
+    "max_students": 1,
+    "session_type": "one_on_one",
+    "requirements": "Acoustic guitar, picks, notebook",
+    "created_at": "2024-01-05T17:00:00Z",
+    "is_active": true
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "guru_id": 1,
+    "shishya_id": 4,
+    "rating": 5,
+    "comment": "Very patient and knowledgeable.",
+    "created_at": "2024-02-11T20:30:00Z",
+    "session_date": "2024-02-11T18:00:00Z",
+    "verified_purchase": true
+  },
+  {
+    "id": 2,
+    "guru_id": 2,
+    "shishya_id": 5,
+    "rating": 4,
+    "comment": "Delicious recipes and easy teaching.",
+    "created_at": "2024-02-13T16:45:00Z",
+    "session_date": "2024-02-13T14:00:00Z",
+    "verified_purchase": true
+  }
+]
